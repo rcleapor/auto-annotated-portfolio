@@ -17,9 +17,16 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Right, let's refine that to be even more engaging and direct, while
+      maintaining that confident, male voice: "Alright, listen up. I'm laying it
+      all out here. Why? Because I've busted my tail for the last few years, and
+      I'm damn proud of the results. This isn't just talk; it's hard-earned
+      experience and tangible achievements. I've pushed boundaries, overcome
+      obstacles, and delivered. I'm sharing this upfront because I want you to
+      see the impact of that dedication right away. Give it a quick read, and if
+      you like what you see, scroll down. There's a whole lot more where that
+      came from—credentials, details, the works. I'm confident you'll be
+      impressed."
     styles:
       self:
         height: auto
