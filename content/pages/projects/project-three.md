@@ -19,7 +19,7 @@ media:
 backgroundImage:
   type: BackgroundImage
   url: /images/lake-water.gif
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 34
