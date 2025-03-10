@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/1-33606_1687549908092_3041504_n-001 (1).jpg
   altText: Project thumbnail image
+  caption: you swing e right rrund
 media:
   type: ImageBlock
   url: /images/bg1.jpg
