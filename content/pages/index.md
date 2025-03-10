@@ -18,15 +18,7 @@ sections:
       impressive titles and buzz words.
     subtitle: >-
       Right, let's refine that to be even more engaging and direct, while
-      maintaining that confident, male voice:"Alright, listen up. I'm laying it
-      all out here. Why? Because I've busted my tail for the last few years, and
-      I'm damn proud of the results. This isn't just talk; it's hard-earned
-      experience and tangible achievements. I've pushed boundaries, overcome
-      obstacles, and delivered. I'm sharing this upfront because I want you to
-      see the impact of that dedication right away. Give it a quick read, and if
-      you like what you see, scroll down. There's a whole lot more where that
-      came from—credentials, details, the works. I'm confident you'll be
-      impressed."
+      maintaining that confident, male voice:"Alright, listen up. I'm laying it 
     styles:
       self:
         height: auto
