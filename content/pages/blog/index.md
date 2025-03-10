@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/frkst-records.gif
+  url: /images/featured-Image2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
