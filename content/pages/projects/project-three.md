@@ -18,7 +18,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/lake-water.gif
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
