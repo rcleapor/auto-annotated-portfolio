@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/1-33606_1687549908092_3041504_n-001 (1).jpg
   altText: Project thumbnail image
-  caption: you swing e right rrund
+  caption: you swing me right rend
   elementId: pro-1
 media:
   type: ImageBlock
