@@ -198,7 +198,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/winter-snow.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
