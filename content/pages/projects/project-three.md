@@ -21,7 +21,7 @@ backgroundImage:
   url: /images/lake-water.gif
   backgroundSize: contain
   backgroundPosition: right-top
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 34
 ---
 
